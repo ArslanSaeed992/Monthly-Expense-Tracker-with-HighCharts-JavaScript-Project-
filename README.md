@@ -1,4 +1,4 @@
-# Monthly-Expense-Tracker-With-HIghCharts-Using-JavaScript-Project
+# Monthly-Expense-Tracker-With-HighCharts (JavaScript-Project)
 
 Quick View Demo:
 https://arslansaeed992.github.io/monthly-expence-tracker-JavaScript-Project/
